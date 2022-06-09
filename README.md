@@ -1,8 +1,8 @@
 # BlogApp Backend
 
 BlogApp Backend is build with  
-1) nodeJS(express),  
-2) joi validation,
+1) nodeJS(express)
+2) joi validation
 3) Postgres DB
 4) JWT AuthToken
 
