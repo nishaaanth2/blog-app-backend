@@ -16,7 +16,8 @@ npm i
 cp .env.example .env
 ```
 complete `.env` with proper details
-## Setup [Mogo3T](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/) in mac
+
+## Setup [Mongo DB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/) in mac
 
 Install Xcode Command-Line Tools
 ```bash
@@ -42,6 +43,8 @@ Verify whether service started, using this command
 ps aux | grep -v grep | grep mongod
 ```
 <img width="1640" alt="Screenshot 2022-06-11 at 3 36 09 PM" src="https://user-images.githubusercontent.com/42349645/173183378-07261bef-8331-4c15-bafa-13e28e879a21.png">
+
+You can install Robo3T, GUI for your local Mongo DB.
 
 ## Run
 
