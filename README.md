@@ -3,7 +3,7 @@
 BlogApp Backend is build with  
 1) nodeJS (express)
 2) joi validation
-3) Mongo DB (Robo3T)
+3) Mongo DB (Robo3T GUI)
 4) JWT AuthToken
 
 ## Installation
