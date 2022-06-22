@@ -8,6 +8,11 @@ BlogApp Backend is build with
 
 ## Installation
 
+Clone the repo locally, 
+```bash
+cd blog-app-backend/
+```
+
 ```bash
 npm i
 ```
