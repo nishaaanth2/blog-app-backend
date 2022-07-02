@@ -1,5 +1,5 @@
 # BlogApp Backend
-![Language](https://img.shields.io/badge/language-nodejs%203-orange.svg)  
+![Language](https://img.shields.io/badge/language-nodejs%20-orange.svg)  
 
 BlogApp Backend is build with  
 1) nodeJS (express)
